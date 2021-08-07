@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382884869640",
+    "project_id": "cabme-rakrob",
+    "storage_bucket": "cabme-rakrob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382884869640:android:68f225b88302105f5c03bd",
+        "android_client_info": {
+          "package_name": "com.rakrob.cabme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382884869640-icbb19b4t7kcd2rls3m8mrmcj10pe723.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbGFAlrzmKn46IYdBT4zdo-P69zywEiWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382884869640-icbb19b4t7kcd2rls3m8mrmcj10pe723.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
